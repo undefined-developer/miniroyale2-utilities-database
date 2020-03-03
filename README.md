@@ -1,3 +1,3 @@
 # miniroyale2-utilities-database
 
-Database for Utilities Addons like badges.
+Database for MiniRoyale2.io Utilities like badges.
